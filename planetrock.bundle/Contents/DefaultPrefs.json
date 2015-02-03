@@ -1,0 +1,8 @@
+[
+        {
+                "id":                   "mp3_url",
+                "label":                "URL for MP3 stream",
+                "type":         "text",
+                "default":      "http://tx.sharp-stream.com/icecast.php?i=planetrock.mp3",
+        },
+]
